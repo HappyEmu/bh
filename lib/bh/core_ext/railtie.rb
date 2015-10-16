@@ -1,5 +1,3 @@
-require 'bh/core_ext/rails/form_for_helper'
-
 module Bh
   module Extensions
     # Makes Bootstrap helpers available in Rails applications.
